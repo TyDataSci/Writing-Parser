@@ -1,7 +1,7 @@
 # Writing-Parser
 
 
-![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/WritingParserImage1.jpg?raw=true)
+![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/WritingParserImage1.png?raw=true)
 
 
 ![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionC.png?raw=true)
