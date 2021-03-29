@@ -4,10 +4,10 @@
 ![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/WritingParserImage1.jpg?raw=true)
 
 
-![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionC.jpg?raw=true)
-![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/W.jpg?raw=true)
-![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionF.jpg?raw=true)
-![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionR.jpg?raw=true)
-![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionS.jpg?raw=true)
-![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionQ.jpg?raw=true)
+![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionC.png?raw=true)
+![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/W.png?raw=true)
+![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionF.png?raw=true)
+![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionR.png?raw=true)
+![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionS.png?raw=true)
+![alt text](https://github.com/TyDataSci/Writing-Parser/blob/main/optionQ.png?raw=true)
 
